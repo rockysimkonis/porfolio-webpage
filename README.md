@@ -1,2 +1,2 @@
 # porfolio-webpage
-My personal website
+My personal website by Rocky Simkonis
